@@ -29,30 +29,23 @@ Trovie is an app that let's the user search for a sound track. The app then retu
 **Required Must-have Stories**
 
 * John was having a blast listening this song called superhero, he remembered hearing this song in a movie before but he couldn't remember which movie it appeared in. He came across this app called trovie and it helped him find the name of the movie he recalled it being in. 
-* ...
 
 **Optional Nice-to-have Stories**
 
 * In addition he also found other movies the song appeared in, and the app redirected him to stream the movie on netflix.
-* ...
 
 ### 2. Screen Archetypes
 
-* [Start Screen]
-   * [John opens the App]
-   * ...
-* [Song Search Page]
-   * [John searches for song]
-   * ...
-* [Song result Page]
-   * [John sees search results of song]
-   * ...
-* [Song Page]
-   * [John sees song page with movies]
-   * ...
-* [Movie page]
+* Start Screen
+   * John opens the App
+* Song Search Page
+   * John searches for song
+* Song result Page
+   * John sees search results of song
+* Song Page
+   * John sees song page with movies
+* Movie page
    * [John sees movie page and is able to redirect to streaming service.]
-   * ...
 
 ### 3. Navigation
 
@@ -64,12 +57,11 @@ Trovie is an app that let's the user search for a sound track. The app then retu
 
 **Flow Navigation** (Screen to Screen)
 
-* [list first screen here]
-   * [list screen navigation here]
-   * ...
-* [list second screen here]
-   * [list screen navigation here]
-   * ...
+* Home -> Search Bar -> Search Song
+   * Song -> Movie Details
+* Search -> Search Bar -> Search Song
+   * Song -> Movie Details
+* Saved-> Saved Song -> Movie Details
 
 ## Wireframes
 [Screenshots and wireframe]
@@ -104,9 +96,10 @@ Trovie is an app that let's the user search for a sound track. The app then retu
 
 <img src="(https://i.ibb.co/L0Qsn06/Whats-App-Image-2023-04-01-at-11-18-07-AM.jpg)" width=200>
 
-### [BONUS] Digital Wireframes & Mockups
 
-### [BONUS] Interactive Prototype
+## Video Walkthrough
+
+### [BONUS] Digital Wireframes & Mockups
 
 ## Schema 
 [This section will be completed in Unit 9]
