@@ -82,7 +82,7 @@ Trovie is an app that let's the user search for a sound track. The app then retu
 
 
 ## Video Walkthrough
-![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/TrovieApp/Trovie/blob/main/Screen-Recording-2023-05-04-at-1.gif))
+![](https://github.com/TrovieApp/Trovie/blob/main/Screen-Recording-2023-05-04-at-1.gif)
 ### [BONUS] Digital Wireframes & Mockups
 
 ### Models
