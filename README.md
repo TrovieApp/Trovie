@@ -7,7 +7,6 @@ Original App Design Project - README Template
 1. [Overview](#Overview)
 2. [Product Spec](#Product-Spec)
 3. [Wireframes](#Wireframes)
-4. [Schema](#Schema)
 
 ## Overview
 ### Description
@@ -101,8 +100,6 @@ Trovie is an app that let's the user search for a sound track. The app then retu
 
 ### [BONUS] Digital Wireframes & Mockups
 
-## Schema 
-[This section will be completed in Unit 9]
 ### Models
 [Add table of models]
 ### Networking
