@@ -13,7 +13,6 @@ Original App Design Project - README Template
 Trovie is an app that let's the user search for a sound track. The app then returns a list movies with that sound track in it.
 
 ### App Evaluation
-[Evaluation of your app across the following attributes]
 - **Category:** Entertainment
 - **Mobile:** This app will be developed for IOS but in the future it's also possible to create a version for desktop and Android.
 - **Story:** Movie Search engine that takes in a song as an input and outputs a list of movies with that song in it.
@@ -44,7 +43,7 @@ Trovie is an app that let's the user search for a sound track. The app then retu
 * Song Page
    * John sees song page with movies
 * Movie page
-   * [John sees movie page and is able to redirect to streaming service.]
+   * John sees movie page and is able to redirect to streaming service.
 
 ### 3. Navigation
 
@@ -79,20 +78,6 @@ Trovie is an app that let's the user search for a sound track. The app then retu
 ![](https://i.imgur.com/9LEk4Js.png)
 ![](https://i.imgur.com/MchnPoM.png)
 ![](https://i.imgur.com/wuczXwq.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <img src="(https://i.ibb.co/L0Qsn06/Whats-App-Image-2023-04-01-at-11-18-07-AM.jpg)" width=200>
 
 
